@@ -7,7 +7,7 @@
 На тестирование затрачено: <2 часа>
 
 В результате тестирования выявлены следующие дефекты:
-<> [https://github.com/OlgaKireenko/HW1_Task1_JAVA/issues]
+<Credit card Number 6011898807345206050 validation> [https://github.com/OlgaKireenko/HW1_Task1_JAVA/issues]
 
 * В качестве тестовых данных использовались данные генерируемые на сайте freeformatter.com:
 * Номер для карты Visa: 6011898807345206050, ОР: Result is OK
