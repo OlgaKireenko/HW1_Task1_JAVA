@@ -10,7 +10,7 @@
 <> [https://github.com/OlgaKireenko/HW1_Task1_JAVA/issues]
 
 * В качестве тестовых данных использовались данные генерируемые на сайте freeformatter.com:
-* Номер для карты Visa: 4716238764229536430, ОР: Result is OK
+* Номер для карты Visa: 6011898807345206050, ОР: Result is OK
 * 
 * 
 
